@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmethahseer
+- 👋 Hi, I’m Muhammed Thahseer C K
 - 👀 I’m interested in datas
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on Machine Learning and AI
