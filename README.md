@@ -13,7 +13,7 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
   </a>
 </p>
 
-<img src='https://live.staticflickr.com/65535/52946924761_e71af25781_o.png' style='border: solid green 10px' />
+
 
 
 <!-- [Data science Enthusiast](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
