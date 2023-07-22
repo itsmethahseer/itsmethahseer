@@ -1,9 +1,5 @@
 ### Hi there 👋, My Name is *Muhammed Thahseer CK*
     
-
-
-
-
 Hi there! I am a self-taught data scientist with a deep passion for exploring the ever-evolving realm of technology. My journey in data science began with a curiosity-driven exploration of data analysis, machine learning, and statistical modeling. I find immense joy in delving into new and exciting data projects that challenge my skills and push me to learn more.
 
 <p align="center">
