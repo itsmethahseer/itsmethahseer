@@ -24,12 +24,7 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 - 📫 Reach me [@Thahseerck](mailto:zacthahseer123@gmail.com)
 - ⚡ Fun fact I can code continuously more than I sleep
 
-<span>&nbsp;</span>
 
-<div style="display: flex; justify-content: space-around;" align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyas-iqbal&show_icons=true&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=Riyas-iqbal&theme=gotham&border=25B368" alt="GitHub streak stats">
-</div>
 
 
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
