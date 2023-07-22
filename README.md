@@ -1,6 +1,5 @@
 ### Hi there 👋, My Name is *Muhammed Thahseer CK*
     
-<img src='https://komarev.com/ghpvc/?username=itsmethahseer&color=green' align='right' style='border: solid green 10px'/>
 
 
 
