@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is *Muhammed Thahseer CK*
     
-<img src='https://komarev.com/ghpvc/?username=Riyas-iqbal&color=green' align='right' style='border: solid green 10px'/>
+<img src='https://komarev.com/ghpvc/?username=itsmethahseer&color=green' align='right' style='border: solid green 10px'/>
 
 
 
@@ -9,7 +9,7 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,tensorflow,scikit-learn,powerbi,tableau,html,css,git,github,nlp,OpenCV,pandas,numpy,ML,deeplearning,pycharm,jupyter,java,c,django,fastapi,cloud" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,tensorflow,scikitlearn,powerbi,tableau,html,css,git,github,nlp,computervision,pandas,numpy,machinelearning,deeplearning,pycharm,jupyter,java,c,django,fastapi,cloud" />
   </a>
 </p>
 
