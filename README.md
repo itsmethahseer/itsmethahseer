@@ -9,19 +9,19 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,tensorflow,scikit-learn,powerbi,tableau,html,css,git,github,nlp,opencv,pandas,numpy,ML,deeplearning,pycharm,jupyter,java,c,django,fastapi,cloud" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,tensorflow,scikit-learn,powerbi,tableau,html,css,git,github,nlp,OpenCV,pandas,numpy,ML,deeplearning,pycharm,jupyter,java,c,django,fastapi,cloud" />
   </a>
 </p>
 
 <img src='https://live.staticflickr.com/65535/52946924761_e71af25781_o.png' style='border: solid green 10px' />
 
 
-<!-- [Node.js Developer](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
-- 🔭 I’m currently working on [Theora](https://github.com/Riyas-iqbal/Theora) Educational Platform
-- 🌱 I’m currently learning Typescript and Clean Architeture
-- 👯 I’m looking to collaborate on JavaScript, React, ..etc
+<!-- [Data science Enthusiast](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
+- 🔭 I’m currently working on [Spark]([https://github.com/Riyas-iqbal/Theora](https://spark.apache.org/)) data Framework
+- 🌱 I’m currently learning Yolo Alogorithm for object detection
+- 👯 I’m looking to collaborate on Deep learning,NLP,computer vision,powerbi,python etc.
 - 💬 Ask me about anything😂
-- 📫 Reach me [@riyasiqbal](mailto:riyasiqbal10@gmail.com)
+- 📫 Reach me [@Thahseerck](mailto:zacthahseer123@gmail.com)
 - ⚡ Fun fact I can code continuously more than I sleep
 
 <span>&nbsp;</span>
