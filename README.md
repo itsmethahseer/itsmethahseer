@@ -31,22 +31,7 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
   <img src="https://streak-stats.demolab.com?user=Riyas-iqbal&theme=gotham&border=25B368" alt="GitHub streak stats">
 </div>
 
-<span>&nbsp;</span>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyas-iqbal&layout=compact) -->
-
-  <p align="center">
-<a href="https://github.com/Riyas-iqbal/theora">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=theora&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/Riyas-iqbal/express-boilerplate">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=express-boilerplate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Riyas-iqbal/NextGen-Store">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Riyas-iqbal&repo=NextGen-Store&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
