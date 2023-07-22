@@ -18,3 +18,9 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 - 💬 Ask me about anything😂
 - 📫 Reach me [@Thahseerck](mailto:zacthahseer123@gmail.com)
 - ⚡ Fun fact I can code continuously more than I sleep
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmethahseer&show_icons=true&locale=en&layout=compact" alt="itsmethahseer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmethahseer&show_icons=true&locale=en" alt="itsmethahseer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmethahseer&" alt="itsmethahseer" /></p>
