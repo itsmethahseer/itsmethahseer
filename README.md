@@ -2,10 +2,10 @@
     
 Hi there! I am a self-taught data scientist with a deep passion for exploring the ever-evolving realm of technology. My journey in data science began with a curiosity-driven exploration of data analysis, machine learning, and statistical modeling. I find immense joy in delving into new and exciting data projects that challenge my skills and push me to learn more.
 <p align="left">
-<a href="https://twitter.com/pranav1030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav1030" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav k" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav_k7ld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_k7ld" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranavkkeloth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavkkeloth" height="30" width="40" /></a>
+<a href="https://twitter.com/itsmethahseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmethahseer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsmethahseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmethahseer" height="30" width="40" /></a>
+<a href="https://instagram.com/thahseer.ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thahseer.ck" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsmethahseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmethahseer" height="30" width="40" /></a>
     </p>
     <br>
     <br>
