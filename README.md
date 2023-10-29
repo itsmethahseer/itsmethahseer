@@ -28,7 +28,7 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 
 
 <!-- [Data science Enthusiast](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
-- 🔭 I’m currently working on [Spark]([https://github.com/Riyas-iqbal/Theora](https://spark.apache.org/)) data Framework
+- 🔭 I’m currently working on [Computer vision]([https://opencv.org/get-started/)) data Framework
 - 🌱 I’m currently learning Yolo Alogorithm for object detection
 - 👯 I’m looking to collaborate on Deep learning,NLP,computer vision,powerbi,python etc.
 - 💬 Ask me about anything😂
