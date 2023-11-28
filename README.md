@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is *Muhammed Thahseer CK*
 
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/big-isolated-employee-working-office-workplace-flat-illustration_1150-41780.jpg?w=1060&t=st=1690013380~exp=1690013980~hmac=756686c62611a7a888b66a45049b6611e8779c4658349bb05117d709ea0a78bf">
 <br>
 <br>
