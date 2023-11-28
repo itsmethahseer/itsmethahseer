@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmethahseer" target="blank"><img src="https://img.shields.io/twitter/follow/itsmethahseer?logo=twitter&style=for-the-badge" alt="itsmethahseer" /></a> </p>
 
-- 🌱 I’m currently learning *SPARK*
+- 🌱 I’m currently learning *LLMs*
 
 - 💬 Ask me about *Data science ,GIT*
 
