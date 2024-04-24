@@ -13,7 +13,7 @@
 - 💬 Ask me about *Data science ,GIT*
 
 
-Hi there! I am a self-taught data scientist with a deep passion for exploring the ever-evolving realm of technology. My journey in data science began with a curiosity-driven exploration of data analysis, machine learning, and statistical modeling. I find immense joy in delving into new and exciting data projects that challenge my skills and push me to learn more.
+Hi there! I am a self-taught AI Engineer with a deep passion for exploring the ever-evolving realm of technology. My journey in data science began with a curiosity-driven exploration of data analysis, machine learning, and statistical modeling. I find immense joy in delving into new and exciting data projects that challenge my skills and push me to learn more.
 <p align="left">
 <a href="https://twitter.com/itsmethahseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmethahseer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsmethahseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmethahseer" height="30" width="40" /></a>
@@ -28,12 +28,11 @@ Hi there! I am a self-taught data scientist with a deep passion for exploring th
 
 
 <!-- [Data science Enthusiast](https://live.staticflickr.com/65535/52946924761_e71af25781_o.png) -->
-- 🔭 I’m currently working on [Computer vision]([https://opencv.org/get-started/)) data Framework
-- 🌱 I’m currently learning Yolo Alogorithm for object detection
+- 🔭 I’m currently working on Preprocessing of datas and Generative AI
+- 🌱 I’m currently doing an LLM Application development.
 - 👯 I’m looking to collaborate on Deep learning,NLP,computer vision,powerbi,python etc.
 - 💬 Ask me about anything😂
 - 📫 Reach me [@Thahseerck](mailto:zacthahseer123@gmail.com)
-- ⚡ Fun fact I can code continuously more than I sleep
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmethahseer&show_icons=true&locale=en&layout=compact" alt="itsmethahseer" /></p>
 
